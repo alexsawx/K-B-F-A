@@ -9,12 +9,19 @@ body {
     background-color: black;
 }
 
+.greetings > span {
+    animation-delay: .4s;
+}
+
+.greetings > span {
+    animation: glow 2.5s ease-in-out infinite;
+}
+
 * {
     font-family: 'Poppins', cursive;
 }
 
 body {
-    display: ;
     margin: 8px;
 }
 
